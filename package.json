@@ -1,0 +1,22 @@
+{
+  "name": "devops-pls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run":"node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylvesterPaaKofiEsuong/Devops-PLs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SylvesterPaaKofiEsuong/Devops-PLs/issues"
+  },
+  "homepage": "https://github.com/SylvesterPaaKofiEsuong/Devops-PLs#readme",
+  "description": ""
+}
